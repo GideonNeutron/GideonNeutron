@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png"  />
+  <img height="200" src="header_1.png"  />
 </div>
 
 ###
@@ -14,7 +14,6 @@
 
 ###
 
-<br clear="both">
 
 - 🧐I'm Gideon Appiah, a current student at Grambling State University 🎓 pursuing a Bachelor's in Computer Science.
 - 🌐This page is a collection of some of my projects (academic and personal).
@@ -25,15 +24,24 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">
+Current Project: C++ Redis Server
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
+  <img width="4" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20" alt="redis logo"  />
+  <img width="4" />
+</h2>
 
-###
+- 🏗️💻<b>Building from scratch</b>Developing a high-performance, in-memory key-value store using C++ to master the "inner workings" of modern databases! 
+- 🌐⚡Will implement a custom Event Loop and Asynchronous I/O (using epoll or poll) to handle thousands of concurrent connections! 
+- 🗣️📜Deep diving into the Redis Serialization Protocol (RESP) to ensure my server communicates like the real deal! 
+- 🏎️📊Will craft efficient, low-level data structures from the ground up for sub-millisecond latency! 
+-  🧠💎Leveling up my C++ pointer and memory management skills to ensure zero leaks and maximum speed!
+- 🎯🔝<b>The Goal:</b> Mastering the complexities of concurrency and distributed systems to build production-grade backend architecture! 
 
-<h2 align="left">Tech Stacks I Use🧑‍💻🖥️</h3>
+
+<br clear="both">
+<h2 align="left">My Techbox🧑‍💻🖥️</h2>
 
 ###
 
@@ -141,50 +149,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
+<h2>⚡Some Fun on the side🚀😎
+</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dsfb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dsfb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsfb/dsfb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dsfb/dsfb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dsfb/dsfb/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsfb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dsfb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<img src="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/snake.svg" alt="Snake animation" />
 
 ###
