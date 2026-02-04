@@ -163,6 +163,6 @@ Current Project: C++ Redis Server
 
 ###
 
-<img src="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/GideonNeutron/GideonNeutron/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
