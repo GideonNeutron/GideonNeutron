@@ -10,13 +10,22 @@
 
 ###
 
-<h3 align="left">Little About Me🧑‍💻</h3>
+<h3 align="left">Little About Me🏋️‍♂️🧘🤵‍♂️</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">🧐I'm Gideon Appiah, a current student at Grambling State University 🎓 pursuing a Bachelor's in Computer Science. <br>🌐This page is a collection of some of my projects (academic and personal). <br>❤️I enjoy working on full-stack projects and picking up new technologies along the way. <br>🖥️I'm particularly interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across when making some cool things. <br>👋I genuinely love networking and connecting with anyone with info to share.<br><br>👌Feel free to explore my projects, don't hesitate to reach out if you see something that sparks your interest (or if you have any ideas 🤓)!!</p>
+- 🧐I'm Gideon Appiah, a current student at Grambling State University 🎓 pursuing a Bachelor's in Computer Science.
+- 🌐This page is a collection of some of my projects (academic and personal).
+- ❤️I enjoy working on full-stack projects and picking up new technologies along the way.
+- 🖥️I'm particularly interested in full-stack web dev, cloud, API design, system architecture, and all sorts of branches of software development that I've come across when making some cool things.
+- 👋I genuinely love networking and connecting with anyone with info to share.
+- 👌Feel free to explore my projects, don't hesitate to reach out if you see something that sparks your interest (or if you have any ideas 🤓)!!
+
+###
+
+<h2 align="left">Tech Stacks I Use🧑‍💻🖥️</h3>
 
 ###
 
@@ -146,11 +155,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dsfb.dsfb&"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
